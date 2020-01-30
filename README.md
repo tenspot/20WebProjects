@@ -7,3 +7,7 @@ Date: January 2020
 
 About this course
 Build 20 mini frontend projects from scratch with HTML5, CSS & JavaScript (No frameworks or libraries)
+
+Notes:
+1. To get fonts from Google go to fonts.google.com see video 6 (Project CSS) at time 1:00
+2. for email validation regex string see: https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript
