@@ -14,4 +14,9 @@ project 2 at 0.32min
 2. for email validation regex string see: https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript
 
 Project 3 - Custom Video Player
-For info. on video/audio api see: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs
+For info. on video/audio API see: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs
+
+For Font Awesome: https://www.bootstrapcdn.com/fontawesome/
+
+Project 4 - Exchange Rate Calculator
+For info. on Exchange Rate API see: http://www.exchangerate-api.com
