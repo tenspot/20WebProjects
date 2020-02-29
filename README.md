@@ -12,3 +12,6 @@ Notes:
 1. To get fonts from Google go to fonts.google.com see video 6 (Project 1 CSS) at time 1:00 or video 12
 project 2 at 0.32min
 2. for email validation regex string see: https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript
+
+Project 3 - Custom Video Player
+For info. on video/audio api see: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs
