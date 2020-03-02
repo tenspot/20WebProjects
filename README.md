@@ -20,3 +20,7 @@ For Font Awesome: https://www.bootstrapcdn.com/fontawesome/
 
 Project 4 - Exchange Rate Calculator
 For info. on Exchange Rate API see: http://www.exchangerate-api.com
+Check out Brad's fetch api video on YouTube (note items.json is only to demonstrate how to read json data from a file and is not required for the main project).
+
+Project 5 - 
+For random users, use: https://randomuser.me/
