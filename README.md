@@ -29,6 +29,10 @@ This returns random information about a fictisious person
 Section 7: Project 6 - Menu, Slider & Modal
 For Font-awesome css: https://cdnjs.com/libraries/font-awesome select css and version https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css using "copy link tag" drop down option.
 
+For lato fonts: fonts.google.com
+
+Demo's how to show hide a menu sidebar and how to show a modal box using transitioning of 1 sec (note use of keyframes). Also shows how to add/remove classes using javascript.
+
 Section 8: Project 7
 
 Section 9: Project 8
